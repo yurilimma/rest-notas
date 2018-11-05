@@ -1,1 +1,4 @@
-# Exemplo API Java RESTFUL - JDBC
+# Exemplo API Restful
+- JDBC
+- Java
+- Json
