@@ -2,3 +2,4 @@
 - JDBC
 - Java
 - Json
+- Jersey
